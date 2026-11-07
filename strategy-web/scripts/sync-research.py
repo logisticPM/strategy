@@ -20,6 +20,7 @@ def table(text, prefix=None):
     return rows
 
 def build():
+    audit=json.loads((SOURCE/'sources/audit-R011.json').read_text(encoding='utf-8'))
     names = ['dashboard.md', 'enterprise-diagnosis.md', 'strategy-options.md', 'economics.md',
              'evidence-ledger.md', 'hypotheses.md', 'research-plan.md',
              'decisions/D001-north-america.md', 'decisions/D002-enterprise-strategy.md']
@@ -40,6 +41,8 @@ def build():
     for row in table(ledger, r'E\d{3}$'):
         entries.append(dict(id=row[0], title=re.sub(r'\[([^]]+)\]\([^)]*\)', r'\1',row[1]), body=row[1]+'\n\n'+row[2], status='待复核'))
     entries.sort(key=lambda x:x['id'])
+    for entry in entries:
+        entry['audit']=audit['evidence'].get(entry['id'],dict(action='未纳入',review='本轮未复核',reason='保持原记录，不提升为本轮审计结论。',family='见原记录',period='见原记录'))
     assert len(entries)==40 and len(set(x['id'] for x in entries))==40
     hypotheses=table(docs['hypotheses.md'],r'H\d{3}$')
     assert len(hypotheses)==14
@@ -53,7 +56,8 @@ def build():
         for hid in set(re.findall(r'\bH\d{3}\b', line)):
             if 'R00' in heading:
                 updates.setdefault(hid, []).append('### '+heading+'\n\n'+line)
-    result=dict(updated='2026-11-07', caseCutoff='2026-10-08', researchVersion='R008',
+    result=dict(updated='2026-11-07', caseCutoff='2026-10-08', researchVersion='R011',
+                audit=audit, auditHash=hashlib.sha256((SOURCE/'sources/audit-R011.json').read_bytes()).hexdigest(),
                 hypothesisUpdates=updates,
                 generated=datetime.now(ZoneInfo('America/Vancouver')).isoformat(),
                 docs=docs, evidence=entries, hypotheses=hypotheses,

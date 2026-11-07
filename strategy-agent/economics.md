@@ -1,6 +1,6 @@
 # 统一经济逻辑与资本配置
 
-R008，美元US$M；所有情景均为研究者假设，不是公司计划或预测。来源事实E012/E040；[脚本](models/enterprise_economics.py)、[结果](models/enterprise-economics-results.json)可复算。无内部基线时保留空值，不以主观权重生成ROI排名。
+R011，美元US$M；所有情景均为研究者假设，不是公司计划或预测。来源事实E012/E040；[脚本](models/enterprise_economics.py)、[结果](models/enterprise-economics-results.json)可复算。无内部基线时保留空值，不以主观权重生成ROI排名。
 
 ## 收入与利润桥
 
