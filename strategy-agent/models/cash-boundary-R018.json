@@ -1,0 +1,19 @@
+{
+  "units": "USD million",
+  "period": "First two quarters, not Q2 alone",
+  "prior": {
+    "cfo": 209.722,
+    "ppe_cash": 330.161,
+    "buybacks_cash": 715.672,
+    "cfo_less_ppe_cash": -120.439,
+    "after_buybacks_arithmetic": -836.111
+  },
+  "current": {
+    "cfo": 589.278,
+    "ppe_cash": 277.056,
+    "buybacks_cash": 695.105,
+    "cfo_less_ppe_cash": 312.222,
+    "after_buybacks_arithmetic": -382.883
+  },
+  "warning": "Not company FCF, distributable cash or optimal buyback assessment. Includes working-capital/tax timing and refund effects; excludes other cash flows."
+}
