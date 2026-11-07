@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "scope": "Local file integrity and references only; not factual or strategic validation",
+  "markdown_files": 16,
+  "evidence_entries": 32,
+  "hypotheses": 10,
+  "local_links_checked": 55,
+  "source_hashes_checked": 4,
+  "errors": []
+}

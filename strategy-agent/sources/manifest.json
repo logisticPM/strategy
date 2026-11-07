@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-07",
+  "timezone": "America/Vancouver",
+  "sources": [
+    {
+      "path": "lululemon 业绩下滑：问题诊断与战略选项（初稿）.docx",
+      "sha256": "6935e28077138f866931ace5158181951607154104d68e53fa0bc90ba49478e3",
+      "bytes": 84235,
+      "read_date": "2026-11-07",
+      "extraction": "sources/diagnosis.txt",
+      "status": "body extracted; factual claims require separate verification"
+    },
+    {
+      "path": "lululemon-2025-annual-report.pdf",
+      "sha256": "82e00f900cc912a7d79596409594156b7779c3a193783ea8fecf87bc013c71cc",
+      "bytes": 6590658,
+      "read_date": "2026-11-07",
+      "status": "R002: selected operating, strategy and segment pages visually reviewed; not full audit",
+      "review_date": "2026-11-07",
+      "review_note": "sources/annual-review-R002.md"
+    },
+    {
+      "path": "Lululemon及主要竞品：产品功能维度与变化.docx",
+      "sha256": "51d9c4d00890e5eb2f28b64b45b2c76d5a77b387eaab648240ee4d9b26f18b26",
+      "bytes": 118163,
+      "read_date": "2026-11-07",
+      "extraction": "sources/functions.txt",
+      "status": "body extracted; factual claims require separate verification"
+    },
+    {
+      "path": "value conversion theory v3 0 清稿.md",
+      "sha256": "5637ad1df31fd327d387eec3de117f82e3f9155af6cefb5fe4fa0f0732ef69d9",
+      "bytes": 20966,
+      "read_date": "2026-11-07",
+      "status": "framework read; underlying empirical work not audited"
+    }
+  ]
+}

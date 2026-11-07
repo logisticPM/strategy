@@ -1,0 +1,140 @@
+{
+  "method": "ID consistency only: ((int(id)>>22)+1288834974657) milliseconds since Unix epoch. Not independent proof of post existence; body separately read in browser. Page displayed clock appears UTC-07, not assumed Vancouver.",
+  "rows": [
+    {
+      "case": "C01",
+      "reported_date": "2026-11-07",
+      "url": "https://x.com/lifewitsonduren/status/2119078880900444369",
+      "id": "2119078880900444369",
+      "utc_id_check": "2026-11-07T14:45:50.445000+00:00",
+      "vancouver_id_check": "2026-11-07T07:45:50.445000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C02",
+      "reported_date": "2026-11-07",
+      "url": "https://x.com/YYC_Cowtown/status/2119106225598288197",
+      "id": "2119106225598288197",
+      "utc_id_check": "2026-11-07T16:34:29.929000+00:00",
+      "vancouver_id_check": "2026-11-07T09:34:29.929000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C03",
+      "reported_date": "2026-11-07",
+      "url": "https://x.com/cocofive/status/2118877976620384310",
+      "id": "2118877976620384310",
+      "utc_id_check": "2026-11-07T01:27:31.132000+00:00",
+      "vancouver_id_check": "2026-11-06T18:27:31.132000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C04",
+      "reported_date": "2026-11-05",
+      "url": "https://x.com/shermanadriana/status/2118465695919075721",
+      "id": "2118465695919075721",
+      "utc_id_check": "2026-11-05T22:09:15.753000+00:00",
+      "vancouver_id_check": "2026-11-05T15:09:15.753000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C05",
+      "reported_date": "2026-11-05",
+      "url": "https://x.com/k4ndikane/status/2118391345815618028",
+      "id": "2118391345815618028",
+      "utc_id_check": "2026-11-05T17:13:49.307000+00:00",
+      "vancouver_id_check": "2026-11-05T10:13:49.307000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C06",
+      "reported_date": "2026-11-05",
+      "url": "https://x.com/melonasodah/status/2118154203747193264",
+      "id": "2118154203747193264",
+      "utc_id_check": "2026-11-05T01:31:30.232000+00:00",
+      "vancouver_id_check": "2026-11-04T18:31:30.232000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C07",
+      "reported_date": "2026-11-04",
+      "url": "https://x.com/Chanxoxo__/status/2118090758792393161",
+      "id": "2118090758792393161",
+      "utc_id_check": "2026-11-04T21:19:23.776000+00:00",
+      "vancouver_id_check": "2026-11-04T14:19:23.776000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C08",
+      "reported_date": "2026-11-03",
+      "url": "https://x.com/karenforsterx/status/2117584992159375617",
+      "id": "2117584992159375617",
+      "utc_id_check": "2026-11-03T11:49:39.614000+00:00",
+      "vancouver_id_check": "2026-11-03T04:49:39.614000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C09",
+      "reported_date": "2026-11-07",
+      "url": "https://x.com/cerseified/status/2118982505101496371",
+      "id": "2118982505101496371",
+      "utc_id_check": "2026-11-07T08:22:52.664000+00:00",
+      "vancouver_id_check": "2026-11-07T01:22:52.664000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C10",
+      "reported_date": "2026-11-05",
+      "url": "https://x.com/KnausgaardFacts/status/2118451295585505573",
+      "id": "2118451295585505573",
+      "utc_id_check": "2026-11-05T21:12:02.446000+00:00",
+      "vancouver_id_check": "2026-11-05T14:12:02.446000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C11",
+      "reported_date": "2026-11-06",
+      "url": "https://x.com/weh3arttumblr/status/2119091613871841605",
+      "id": "2119091613871841605",
+      "utc_id_check": "2026-11-07T15:36:26.222000+00:00",
+      "vancouver_id_check": "2026-11-07T08:36:26.222000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C12",
+      "reported_date": "2026-11-07",
+      "url": "https://x.com/yancmarie/status/2119126190896345433",
+      "id": "2119126190896345433",
+      "utc_id_check": "2026-11-07T17:53:50.027000+00:00",
+      "vancouver_id_check": "2026-11-07T10:53:50.027000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C13",
+      "reported_date": "2026-11-04",
+      "url": "https://x.com/thepuppycure/status/2118031897435460057",
+      "id": "2118031897435460057",
+      "utc_id_check": "2026-11-04T17:25:30.135000+00:00",
+      "vancouver_id_check": "2026-11-04T10:25:30.135000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C14",
+      "reported_date": "2026-11-03",
+      "url": "https://x.com/dearjohnsummit/status/2117672913637982249",
+      "id": "2117672913637982249",
+      "utc_id_check": "2026-11-03T17:39:01.728000+00:00",
+      "vancouver_id_check": "2026-11-03T10:39:01.728000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    },
+    {
+      "case": "C16",
+      "reported_date": "2026-11-05",
+      "url": "https://x.com/cadcow/status/2118461121804026000",
+      "id": "2118461121804026000",
+      "utc_id_check": "2026-11-05T21:51:05.199000+00:00",
+      "vancouver_id_check": "2026-11-05T14:51:05.199000-07:00",
+      "body_read": "browser original text verified; not transaction verification"
+    }
+  ]
+}

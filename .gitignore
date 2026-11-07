@@ -1,0 +1,17 @@
+tmp/
+**/node_modules/
+**/__pycache__/
+**/.env*
+**/.dev.vars*
+**/*.pem
+**/*.tsbuildinfo
+**/.sites-runtime/
+**/.wrangler/
+**/.next/
+**/.vinext/
+**/dist/
+**/outputs/
+**/work/
+.codex/
+.agents/
+**/.DS_Store

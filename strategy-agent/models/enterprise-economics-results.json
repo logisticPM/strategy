@@ -1,0 +1,121 @@
+{
+  "source_ids": [
+    "E012",
+    "E040"
+  ],
+  "units": "US$ million",
+  "scope": "Arithmetic checks, not causal validation or forecast; scenario inputs are invented sensitivities.",
+  "q2_prior": {
+    "revenue": 2525.219,
+    "gross_profit": 1477.202,
+    "sga": 951.658,
+    "amortization": 1.73,
+    "operating_income": 523.814
+  },
+  "q2_current": {
+    "revenue": 2415.631,
+    "gross_profit": 1461.878,
+    "sga": 1006.332,
+    "amortization": 1.893,
+    "operating_income": 453.653
+  },
+  "operating_income_bridge": {
+    "gross_profit_change": -15.324,
+    "sga_effect": -54.674,
+    "amortization_effect": -0.163
+  },
+  "operating_income_change": -70.161,
+  "bridge_residual": 0.0,
+  "excluding_only_current_tariff_refund": {
+    "gross_profit": 1327.378,
+    "operating_income": 319.153,
+    "gross_margin": 0.5494953492482917,
+    "operating_margin": 0.13211993056886587,
+    "warning": "Not company adjusted metrics or full normalization; interest refund not in operating income."
+  },
+  "annual_regional_reported_revenue_changes": {
+    "Americas": -81.112,
+    "China": 393.462,
+    "ROW": 202.124,
+    "total": 514.474
+  },
+  "assumed_sensitivity_matrix": [
+    {
+      "assumed_recovery_fraction": 0.005,
+      "assumed_incremental_contribution_margin": 0.2,
+      "incremental_net_revenue": 39.235,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": -2.153
+    },
+    {
+      "assumed_recovery_fraction": 0.005,
+      "assumed_incremental_contribution_margin": 0.3,
+      "incremental_net_revenue": 39.235,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 1.771
+    },
+    {
+      "assumed_recovery_fraction": 0.005,
+      "assumed_incremental_contribution_margin": 0.4,
+      "incremental_net_revenue": 39.235,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 5.694
+    },
+    {
+      "assumed_recovery_fraction": 0.01,
+      "assumed_incremental_contribution_margin": 0.2,
+      "incremental_net_revenue": 78.47,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 5.694
+    },
+    {
+      "assumed_recovery_fraction": 0.01,
+      "assumed_incremental_contribution_margin": 0.3,
+      "incremental_net_revenue": 78.47,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 13.541
+    },
+    {
+      "assumed_recovery_fraction": 0.01,
+      "assumed_incremental_contribution_margin": 0.4,
+      "incremental_net_revenue": 78.47,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 21.388
+    },
+    {
+      "assumed_recovery_fraction": 0.02,
+      "assumed_incremental_contribution_margin": 0.2,
+      "incremental_net_revenue": 156.941,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 21.388
+    },
+    {
+      "assumed_recovery_fraction": 0.02,
+      "assumed_incremental_contribution_margin": 0.3,
+      "incremental_net_revenue": 156.941,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 37.082
+    },
+    {
+      "assumed_recovery_fraction": 0.02,
+      "assumed_incremental_contribution_margin": 0.4,
+      "incremental_net_revenue": 156.941,
+      "assumed_fixed_cost": 10,
+      "incremental_contribution_after_fixed_cost": 52.776
+    }
+  ],
+  "assumed_fixed_10m_break_even_revenue": {
+    "0.2": 50.0,
+    "0.3": 33.333,
+    "0.4": 25.0
+  },
+  "global_fy2025_100bps_profit_sensitivity": 111.026,
+  "unresolved_inputs": [
+    "country cohort cash flows",
+    "incremental margins",
+    "cannibalization",
+    "capex",
+    "working capital",
+    "avoidable costs"
+  ]
+}

@@ -1,0 +1,117 @@
+# 证据台账
+
+维护日：2026-11-07。已核查表示阅读了对应原文，并非因果已证实。以下 E 编号为主张单位；同一来源家族不得重复计票。历史研究已迁入，但未在本轮复读的内容标为待复核。
+
+## 本轮核查证据
+
+### E001 美洲经营压力
+
+- 类型／状态：公司披露／已核查。家族：LULU-Q2-2026。
+- 内容：FY2026 Q2 美洲收入同比下降 8%，可比销售下降 12%；全球收入约 24 亿美元，同比下降 4%。
+- 来源：[公司 Q2 公告](https://corporate.lululemon.com/newsroom/press-releases/2026/09-03-2026-210528733)，“For the second quarter”业绩条目。
+- 发布：2026-09-03；期间截至 2026-08-02；核查：2026-11-07。金额 US$；增速为报告口径。
+- 能支持：现有业务生产力需要优先修复。不能支持：北美各国、各品类的原因占比；美洲不是严格的北美口径，同店差额也不能直接等同新店贡献。
+
+### E002 利润口径与基准
+
+- 类型／状态：公司披露／已核查。家族同 E001，不是独立原因证据。
+- 内容：Q2 毛利率 60.5%、营业利润率 18.8%，均包含关税退款约 560 基点贡献。FY2026 收入指引 US$10.350–10.500B，为预测而非实际。
+- 来源：同 E001，“Gross profit”“Income from operations”“2026 Outlook”。发布／核查日期同 E001。
+- 能支持：模型必须分开一次性收益与经营改善。不能支持：北美单品盈利、正常化全年利润率；简单减去退款影响不是公司正式调整后指标。
+
+### E003 品类与新品表现
+
+- 类型／状态：第三方转录中的管理层陈述／部分核查（已读转录，未听原始录音）。家族：LULU-Q2-2026。
+- 内容：管理层称全球 leggings Q2 约下降 20%；部分宽松女裤表现积极，但不足以抵消下滑；整体新品表现未达预期。
+- 来源：[电话会转录](https://www.fool.com/earnings/call-transcripts/2026/09/09/lululemon-lulu-q2-2026-earnings-call-transcript/)，Meghan Frank 女装下装讨论及 China/newness 问答；网页日期 2026-09-09，所述事件为 Q2 电话会；核查 2026-11-07。
+- 能支持：版型、组合与新品命中率值得检验。不能支持：北美 leggings 同样下降 20%；所有顾客转向时尚；新鲜感是唯一原因。
+
+### E004 已有反应机制
+
+- 类型／状态：第三方转录中的管理层陈述／部分核查。家族同 E003。
+- 内容：管理层已在更新核心系列、压缩 SKU，并称 chase 量同比增加约 20%。
+- 来源：同 E003，Frank 关于 assortment 与 chase 的开场陈述。日期同 E003。
+- 能支持：方案应讨论机制效果和瓶颈，不能声称公司完全没有季中追单。不能支持：反应速度已经足够或组织分拆必然有效。
+
+### E005 高端运动服饰的价值维度
+
+- 类型／状态：研究机构公开摘要／部分核查。家族：GWI-ATHLEISURE。
+- 内容：摘要将舒适、质量、风格列为 luxury/designer activewear 购买考虑，分别为 57%、47%、44%。
+- 来源：[GWI Athleisure trends](https://www.gwi.com/blog/athleisure-trends)，Consumer expectations from luxury sportswear。
+- 网页标注发布 2026-02-20；调查时间、该题样本量及完整地域权重未取得；核查 2026-11-07。正文仍出现 2025 字样，不能仅凭标题认定为当年新调查。
+- 能支持：舒适与审美应同时进入访谈。不能支持：44% 的决策权重、具体支付溢价、Lululemon 北美顾客的因果偏好变化。
+
+### E006 品牌目的与使命
+
+- 类型／状态：官方品牌表述／已核查。家族：LULU-PURPOSE。
+- 内容：目的强调帮助人们达到更好的身心状态、发挥潜能；使命围绕运动、成长和连接。
+- 来源：[Purpose Mission Values](https://corporate.lululemon.com/about-us/our-purpose-mission-and-values)，Our Purpose / Our Mission。页面无明确发布日期；核查 2026-11-07，历史版本未核验。
+- 能支持：审查方案是否服务积极生活与真实穿着体验。不能支持：通勤或时尚产品一定有市场，也不能冒称官网把该表述命名为 vision。
+
+### E007 通勤产品并非空白
+
+- 类型／状态：官方商品目录／部分核查（动态页面及抓取时间限制）。家族：LULU-CA-CATALOG。
+- 内容：加拿大官网设女性 Work Clothes 分类，包含 Daydrift 裤装。
+- 来源：[Women’s Work Clothes](https://shop.lululemon.com/en-ca/c/women-work-clothes/n14rn9z4uwk/)，分类标题与 Daydrift 商品条目。观察 2026-11-07；工具提示缓存约两个月前，无法确认精确快照日。
+- 能支持：应检验现有产品是否被理解、试穿和购买，不能把方向表述为从零进入。不能支持：销售规模、利润、SKU 当日可售性或案例截止日的完整产品组合。
+
+### E008 同学访谈线索
+
+- 类型／状态：用户在本聊天中的非正式访谈转述／部分核查（转述已读取，访谈未独立核实）。家族：USER-CLASSMATES。
+- 内容：不购买理由包括太贵、缺乏新鲜感、医生折扣减少且限制增加、替代产品较多。
+- 定位：本聊天“今天我跟几个同学进行了初步的访谈”用户消息。原始访谈日期、人数、筛选、逐字记录未知；整理日 2026-11-07。
+- 能支持：生成访谈问题与竞争性解释。不能支持：代表北美市场；推断这群人不属目标客户；确认医生折扣政策实际变化或原因排名。
+
+### E009 父亲提供的战略诊断
+
+- 类型／状态：作者分析／已核查其表述，外部事实未整体复核。家族：LOCAL-STRATEGY。
+- 来源：[原件](../lululemon%20业绩下滑：问题诊断与战略选项（初稿）.docx)；正文定位 P4、P11、P119–123、P248–260；对应抽取见 sources/diagnosis.txt。
+- 文件标注 2026-11-06；读取 2026-11-07；晚于案例基准。
+- 观点：溢价来源向新鲜感迁移；核心功能线与潮流快反线分开运营；暂停部分市场扩店。作者也列出品类传导解释的干扰因素。
+- 用途：形成备选战略。限制：“没有季中补单”的绝对表述与 E004 冲突；品类共同下滑不证明核心品类因果传导；停所有新店缺乏逐店经济性。
+
+### E010 产品维度分析
+
+- 类型／状态：作者分析／已核查其表述，机制待验证。家族：LOCAL-FUNCTION。
+- 来源：[原件](../Lululemon及主要竞品：产品功能维度与变化.docx)，P4、P12、P145–146、P283、P288、P318、P334；抽取见 sources/functions.txt。
+- 标注与读取 2026-11-07；晚于案例基准。
+- 观点：区分安心、愉悦、认同与信任；提出耐久、不透及久坐表现。文件自述未做评论语料标注、不构成验证。
+- 限制：柔软必然损害不透/耐久、手感已经饱和、低评论密度意味着高溢价均未验证。P146 将 Breezethrough 归为透光，与 E009 P79 的缝线/版型描述冲突。不能据此建立确定的技术因果链。
+
+### E011 价值转化理论
+
+- 类型／状态：本地理论框架／部分核查（已读关键框架，未审计其数据分析）。家族：LOCAL-THEORY。
+- 来源：[价值转化理论](../value%20conversion%20theory%20v3%200%20清稿.md)，一、二、三节。文件版本 2026-07-30，核查 2026-11-07。
+- 用途：检查功能增量是否可感知、对应什么情绪、与品牌是否一致。
+- 限制：主要实证自述来自其他品类；不自动适用于高端运动服饰，不得搬用系数或认定理论解释即因果验证。
+
+## 历史研究迁入区
+
+下列内容保留研究线索，均不作为本轮核心推荐的已核查依据。复核时填写具体位置、样本、期间，并把可证实主张拆成新条目或更新原条目的状态，保留变化记录。
+
+| ID | 已讨论主题及来源入口 | 当前状态与待补信息 |
+|---|---|---|
+| E012 | [FY2025 年报原件](../lululemon-2025-annual-report.pdf)：地区、品类、同店、利润与战略 | 待复核；此前提取全球收入约 US$11.1B、美洲约七成，重新核对表格与页码后才能进入模型；PDF 已纳入哈希清单 |
+| E013 | [L.E.K. 2026 Brand Heat](https://www.lek.com/sites/default/files/insights/pdf-attachments/2026-footwear-apparel-accessories-brand-heat-index-special-report.pdf)：品牌热度 | 待复核；归一化热度不等于销量、设计满意度或近期流失顾客意愿 |
+| E014 | [BCG 2025 activewear](https://www.bcg.com/publications/2025/walk-lounge-sweat-how-the-generations-are-redefining-activewear)；[2026 wellness](https://www.bcg.com/publications/2026/activewear-brands-wellness-growth) | 待复核；两项调查不能合并分母，补样本、市场、购买理由题目 |
+| E015 | [ACI Fashion Consumer Trends](https://www.aciworldwide.com/resources/fashion-consumer-trends-report) | 待复核；普通时尚与冲动购买触发不能推成高端运动服饰所有购买动机 |
+| E016 | [Morning Consult Vuori](https://morningconsult.com/articles/vuori-an-under-the-radar-story) | 待复核；品牌知晓者与全体样本分母、调查方法及收入地域细分待查 |
+| E017 | [Vuori Performance Jogger](https://vuoriclothing.ca/products/womens-performance-jogger-black-heather)；[Kore](https://vuoriclothing.ca/products/kore-short-black)；[设计理念](https://vuoriclothing.com/pages/design-philosophy) | 待复核；舒适与日常穿着为研究方向，不称某单品销售第一，不把 Vuori 默认视为低价替代；历史价格需重取同日同币种可比款 |
+| E018 | [On Q2 2026 披露转载](https://www.nasdaq.com/press-release/reports-results-second-quarter-and-six-month-period-ended-june-30-2026-2026-08-11) | 待复核；拆分品类/渠道，不把 DTC 全部视为门店，不以品牌故事代替增量归因 |
+| E019 | [Amer Sports Q2 2026](https://www.sec.gov/Archives/edgar/data/1988894/000198889426000083/pressreleaseq22026.htm) | 待复核；Technical Apparel 不只 Arc’teryx，同店增速与总增速不能直接相减推新店贡献 |
+| E020 | Adanola 增长与数字渠道研究 | 待复核；历史记录提到 FY2025 £84.5M、增长48%，尚无本轮可核原始链接；数字隔离，不参与计算 |
+| E021 | [GANNI 联名公告](https://corporate.lululemon.com/newsroom/our-stories/2026/ganni-and-lululemon-join-forces-for-a-collaboration-inspired-by-the-joy-of-movement) | 待复核；先核公告/上市时点，不能把合作存在当销售或利润成功 |
+| E022 | [面料技术](https://www.lululemon.co.uk/en-gb/c/community/about-us/our-fabric-and-technology)；[产品开发](https://corporate.lululemon.com/our-business/innovation/product-design-and-development) | 待复核；Nulu/Everlux/ABC 等能力需对应体验；商业命名不证明独占或性能领先 |
+| E023 | 北美高收入群体经济、衣橱饱和、价格弹性、实际渠道转移 | 未取得适配证据；不从同学反馈推市场规模，不从宏观收入直接推品牌购买 |
+| E024 | [2026-11-06 管理层任命公告](https://corporate.lululemon.com/newsroom/press-releases/2026/11-06-2026-210533141) | 待复核且晚于案例基准；历史讨论提示 E009 的职位空缺描述可能过时，不进入案例当时信息集 |
+
+## 冲突与不得沿用的推论
+
+| 冲突 | 处理 | 影响 |
+|---|---|---|
+| E009 称完全没有季中补单，E004 已描述 chase | 使用已存在但效果待查的表述 | 不直接建议从零搭建同类机制 |
+| E009/E010 对 Breezethrough 问题性质不一致 | 未独立核原始事件，保留冲突 | 不用于证明柔软导致透光 |
+| E010 不主攻场景切换，却建议久坐表现试点 | 理解为大规模扩展与小试点不同层次，仍需作者或数据确认 | 支持分阶段测试，而非强行消除分歧 |
+| GWI 标题年份与正文年份不一致 | 标注调研时点未知 | 不声称测得“今年”偏好变化 |
+
+所有商业因果结论仍须检验；本轮不对衣橱饱和、新鲜感、价格三个原因编造百分比分解。

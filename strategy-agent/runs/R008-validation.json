@@ -1,0 +1,20 @@
+{
+  "run": "R008",
+  "date": "2026-11-07",
+  "structure_check": {
+    "passed": true,
+    "scope": "Local file integrity and references only; not factual or strategic validation",
+    "markdown_files": 27,
+    "evidence_entries": 40,
+    "hypotheses": 14,
+    "local_links_checked": 92,
+    "source_hashes_checked": 4,
+    "errors": []
+  },
+  "economic_model": {
+    "accounting_identity_assertions_passed": true,
+    "operating_profit_bridge_residual_usd_million": 0.0,
+    "hypothetical_sensitivity_cells": 9,
+    "interpretation": "Arithmetic verification only; assumptions are not forecasts or validated project returns."
+  }
+}

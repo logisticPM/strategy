@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "scope": "Local file integrity and references only; not factual or strategic validation",
+  "markdown_files": 11,
+  "evidence_entries": 26,
+  "hypotheses": 10,
+  "local_links_checked": 34,
+  "source_hashes_checked": 4,
+  "errors": [],
+  "run": "R002",
+  "checked_date": "2026-11-07",
+  "arithmetic": {
+    "americas_share_percent": 70.678,
+    "americas_reported_growth_percent": -1.023,
+    "illustrative_extra_week_excluded_growth_percent": 0.472,
+    "advertising_to_revenue_percent": 5.562,
+    "segment_revenue_sum_millions": 11102.6
+  }
+}

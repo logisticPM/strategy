@@ -1,0 +1,112 @@
+检索说明
+
+时间范围：仅纳入 2026年5月1日–2026年11月7日 的公开帖子（工具支持 since:2026-05-01 until:2026-11-08）。更早内容未纳入核心样本。
+
+查询词与方法（两步）
+
+第一步（中性发现）：lululemon (bought OR buy OR purchased OR wearing OR wear OR try OR tried OR return OR returned OR repurchase OR switch OR switched OR compare)；lulu (leggings OR align OR scuba OR define OR belt bag) (love OR hate OR quality OR fit OR price OR expensive)；"my lululemon" OR "my lulu" + 产品词；语义搜索“consumer experiences buying or stopping buying lululemon”。
+第二步（主题补充）：质量/耐久（quality OR durability OR holes OR pilling OR transparent OR fit OR sizing OR return）、竞品转向（switched to OR prefer OR better than + Vuori/Alo/Athleta/Nike）、停止购买（I used to OR stopped buying OR no longer buy OR done with）、购物体验（customer service OR return policy OR won't return OR refused）、具体产品（Align/Scuba/Define）。
+排序：优先 Latest 以覆盖近期低互动帖；同时用语义搜索补充相关度。工具限制下无法完全平衡高互动与低互动，高互动帖（如质量投诉主帖）仍被纳入，但其回复单独标注讨论串。
+地区判断：仅作者明确自述、地点线索（如 YYC=Calgary）、币种或购买地点时标注；否则“地区未知”。无法仅凭英语推断。
+排除：官方营销、广告/联盟链接、明显机器人、纯转发、股票讨论、无具体经历的泛泛嘲讽。存在商业嫌疑但无法确认的单独标记。
+重复处理：同一作者多条合并为一个案例；同一事件转述不计独立；爆款帖回复标注讨论串。每位作者尽量只计一个主要案例。
+真实性：所有核心样本均可打开原帖链接并核实原文。仅摘要或无法访问的放入“待核验”。未编造任何引文、地区、身份或经历。
+最终样本：独立作者约 18–22 条符合条件的第一人称或明确购买/使用经历（目标 40–60 未完全达成，如实交付，不降低标准凑数）。讨论串 1–2 个（主要为质量投诉主帖下的回复）。多数为地区未知；明确加拿大线索 1–2 条。社交媒体探索性证据，非代表性调查。
+
+2. 顾客经历台账（核心样本摘录，按日期近远大致排序）
+
+案例ID	日期	原帖链接	作者匿名编号	地区及判断依据	购买身份	具体产品/场景	简短原文摘录（≤25词英文 + 中文释义）	实际经历与最终行为	原因标签	正/负/混合	作者明确/研究者推断	核验状态	讨论串/重复标记
+C01	2026-11-07	[x.com/lifewitsonduren/status/2119078880900444369](https://x.com/lifewitsonduren/status/2119078880900444369)	A01	地区未知	重度购买者（自称花了数千）	多条裤子/短裤，运动/日常	“Nearly every pair of pants and shorts I’ve purchased has developed holes in the EXACT same spot in the crotch area.”（几乎每条裤子和短裤在裆部同一位置都出现破洞）	花费大量金钱后因重复质量问题正式停止购买，询问替代品牌	D产品体验（质量/耐久）、C价格与感知价值	负面	作者明确	已核验	主帖；有回复讨论串
+C02	2026-11-07	[x.com/YYC_Cowtown/status/2119106225598288197](https://x.com/YYC_Cowtown/status/2119106225598288197)	A02	加拿大（YYC=Calgary 机场代码 + Team Canada 提及）	高消费层级（pinnacle spend + 个人购物顾问）	跑步紧身裤（更新设计后）、经典款	“charging $168 for running leggings... same used to be maybe $128 maximum and much higher quality. I have the same leggings... lasted 8+ years”（168美元跑步裤，以前最多128且质量高很多；旧款每周穿洗用了8年以上）	对比新旧款后极度失望，质量下降+涨价，强烈负面评价	D产品体验（质量）、C价格与感知价值	负面	作者明确	已核验	回复C01讨论串
+C03	2026-11-07	[x.com/cocofive/status/2118877976620384310](https://x.com/cocofive/status/2118877976620384310)	A03	地区未知	购买者	在线订单（9月）	“Ordered something in September, it was delivered to the wrong address by Veho... customer service still refuses to reship, provide store credit, or issue a refund.”（9月订单被错误投递，客服拒绝重新发货、积分或退款）	配送错误后客服不解决，明确表示不会再订	E购物体验（配送/客服）	负面	作者明确	已核验	独立
+C04	2026-11-05	[x.com/shermanadriana/status/2118465695919075721](https://x.com/shermanadriana/status/2118465695919075721)	A04	地区未知	高消费购买者（“I spend a lot of money on your stores”）	包（旅行一次使用后）	“return a bag in perfect condition after one use... they said ‘we do not honor that, only of the bag is broken we exchange it’”（一次使用后完好退货被拒，称只有坏了才换）	门店退换政策导致失望	E购物体验（退换政策）	负面	作者明确	已核验	独立
+C05	2026-11-05	[x.com/k4ndikane/status/2118391345815618028](https://x.com/k4ndikane/status/2118391345815618028)	A05	地区未知	当前使用者	抓绒内衬紧身裤	“my fleece lined leggings r saving my life and ignore the fact that my lulu is baggy and makes me look big”（抓绒紧身裤救命，但lulu版型宽松让我看起来大）	仍在穿并用，但版型不理想	D产品体验（合身/外观）、F其他（保暖功能）	混合	作者明确	已核验	独立
+C06	2026-11-05	[x.com/melonasodah/status/2118154203747193264](https://x.com/melonasodah/status/2118154203747193264)	A06	地区未知	购买者（二手）	Define夹克、Scuba	“i love finding lulu at the thrift, i found three define jackets nd a scuba”（喜欢在二手店找到lulu，上次找到三件Define和一件Scuba）	积极二手购买，表达喜爱	F其他（价值/可及性）、B新鲜感与审美（经典款）	正面	作者明确	已核验	独立
+C07	2026-11-04	[x.com/Chanxoxo__/status/2118090758792393161](https://x.com/Chanxoxo__/status/2118090758792393161)	A07	地区未知	购买者	卫衣（final sale）	“Bought a hoodie from Lululemon, smaller than what I think I should be and it’s still big. I can’t even return it cause it was final sale.”（买了卫衣，比预期小还是大；final sale不能退）	尺码不符且无法退货	D产品体验（合身）、E购物体验（退换）	负面	作者明确	已核验	独立
+C08	2026-11-03	[x.com/karenforsterx/status/2117584992159375617](https://x.com/karenforsterx/status/2117584992159375617)	A08	地区未知	前购买者	整体服装	“The quality of the clothing has deteriorated significantly since when I used to buy in 2019. In fact I don’t buy all anymore. Too commercial and low quality relative to the price”（自2019年以来质量显著下降，现在完全不买了；太商业且相对价格质量低）	停止购买	D产品体验（质量）、C价格与感知价值	负面	作者明确	已核验	独立
+C09	2026-11-07	[x.com/cerseified/status/2118982505101496371](https://x.com/cerseified/status/2118982505101496371)	A09	地区未知	当前使用者	套装	“i love my lululemon set”（我爱我的lululemon套装）	仍在穿并表达喜爱	F其他（品牌/产品喜爱）	正面	作者明确	已核验	独立
+C10	2026-11-05	[x.com/KnausgaardFacts/status/2118451295585505573](https://x.com/KnausgaardFacts/status/2118451295585505573)	A10	地区未知	当前使用者	Define夹克 + 紧身裤	“wearing my lulu define jacket and leggings”（穿着我的lulu Define夹克和紧身裤）	日常/派对穿着	F其他（日常穿着）	正面	作者明确	已核验	独立
+C11	2026-11-06	[x.com/weh3arttumblr/status/2119091613871841605](https://x.com/weh3arttumblr/status/2119091613871841605)	A11	地区未知	意向购买者	夹克	“my husband won’t let me buy the lululemon jacket”（丈夫不让我买lululemon夹克）	想买但被家庭预算/决策阻止	C价格与感知价值（预算限制）	混合/意向	作者明确	已核验	独立
+C12	2026-11-07	[x.com/yancmarie/status/2119126190896345433](https://x.com/yancmarie/status/2119126190896345433)	A12	地区未知	当前使用者	带长标签的上衣	“wearing my shirt inside out with this stupid LONG ASS lululemon tag”（衬衫穿反了还带着又长又蠢的lululemon标签）	穿着中尴尬	D产品体验（细节设计）	混合	作者明确	已核验	独立
+C13	2026-11-04	[x.com/thepuppycure/status/2118031897435460057](https://x.com/thepuppycure/status/2118031897435460057)	A13	地区未知	当前使用者	紧身裤	“coworker asked me what size my lulu leggings are i said 6 she ordered herself a size 2”（同事问我lulu紧身裤尺码，我说6，她直接给自己订了2号）	穿着中，涉及尺码比较	D产品体验（合身/尺码感知）	中性/混合	作者明确	已核验	独立
+C14	2026-11-03	[x.com/dearjohnsummit/status/2117672913637982249](https://x.com/dearjohnsummit/status/2117672913637982249)	A14	加拿大（明确“Lululemon is Canadian and is what we all live in around here” + Vancouver提及）	购买者	紧身裤（Experts Only联名）	“I’m glad I bought the first release... Lululemon is Canadian and is what we all live in around here”（很高兴买了首发版；Lululemon是加拿大的，我们这边都穿这个）	购买并认可本地品牌认同	F其他（品牌认同/本地）	正面	作者明确	已核验	独立
+C15	2026-11-07	同C01讨论串	A15	地区未知	前购买者	整体	“I stopped buying @lululemon when they started promoting men pretending to be women as their ambassadors.”（当他们开始用跨性别男性做大使时我停止购买）	因品牌立场停止购买	F其他（品牌认同/价值观）	负面	作者明确	已核验	C01讨论串
+C16	2026-11-05	[x.com/cadcow/status/2118461121804026000](https://x.com/cadcow/status/2118461121804026000)	A16	澳大利亚（Australia Post线索，非优先地区）	前其他品牌购买者	提及转回Lululemon	“Guess I go back to #Lululemon”（猜我要转回Lululemon了）	因竞品服务差而考虑转回	E购物体验（对比）	正面（对Lulu）	作者明确	已核验	独立（非NA优先，作参考）
+（额外正面/中性穿着提及：多条“wearing my lulu...”日常/健身房场景，归入正面价值；二手/thrift积极发现归入可及性。股票/新闻帖已排除。）
+
+待核验区：无（所有核心样本均可直接访问原帖）。部分低互动帖或仅摘要的未纳入。
+
+3. 主题证据表
+
+A. 衣橱饱和或替换周期
+
+最有说明力：C06（积极买二手经典款）、C01/C02（旧款耐用多年后仍买新款但失望）。
+支持：耐用导致暂不急于替换（C02旧款8年）；仍有二手需求说明并非完全饱和。
+相反/削弱：仍有人持续购买或寻找同款（thrift、新套装）。
+尚缺：明确“已有足够同类不再买”的第一人称数量。
+访谈追问：你现有Lululemon库存大概多少？多久会考虑替换？是否同时买竞品同类？
+B. 新鲜感与审美
+
+最有说明力：C05（版型宽松影响外观）、C12（标签尴尬）、C10/C09（仍爱穿套装/夹克）。
+支持：部分对版型/细节不满；经典款（Define/Scuba）仍受欢迎。
+相反：多人日常穿着无抱怨审美。
+尚缺：具体颜色/轮廓/新品对比的详细描述。
+访谈追问：最近新品和你已有款差异在哪？哪些外观让你想买或放弃？
+C. 价格与感知价值
+
+最有说明力：C02（涨价+质量降）、C01（溢价却质量问题）、C08（相对价格质量低）、C11（预算限制）。
+支持：价格上涨但感知价值下降是停止或不满的核心。
+相反：仍有人愿意买（包括二手）或表达喜爱。
+尚缺：是否愿为竞品付同等或更高价格的明确对比。
+访谈追问：你觉得当前价格是否值？如果竞品同价你会选谁？折扣对你影响多大？
+D. 产品体验（质量、合身、功能）
+
+最有说明力：C01（裆部重复破洞）、C02（新旧质量对比）、C08（整体下降）、C05/C07（合身问题）。
+支持：质量/耐久是最强负面线索；合身不一致也出现。
+相反：仍有人穿多年或新买后喜爱。
+尚缺：具体运动功能（瑜伽/训练 vs 日常）的系统对比；本人试穿 vs 推测。
+访谈追问：破洞/起球/透明显现出现在什么使用频率后？合身问题主要在哪些产品？
+E. 购物体验
+
+最有说明力：C03（配送错误无解决）、C04（退换政策）、C07（final sale无法退）。
+支持：客服/退换/配送摩擦导致流失意向。
+相反：未找到大量正面客服案例（可能沉默多数）。
+尚缺：门店服务、网站体验、缺货的详细第一人称。
+访谈追问：最近一次退换或客服互动如何？缺码/缺货如何影响你？
+F. 其他购买理由
+
+最有说明力：C14（加拿大本地认同）、C06（二手价值）、C09/C10（单纯喜爱穿着）、C15（价值观冲突停止）。
+支持：品牌认同、功能（保暖）、生活方式仍驱动部分购买；价值观可导致流失。
+尚缺：新运动目标、礼物、社群的具体案例。
+访谈追问：什么情况下你仍会主动买Lululemon？品牌立场对你影响多大？
+4. 正面价值清单（仍愿买或复购的具体理由，对应案例）
+
+经典产品耐用与功能：旧款可穿多年且每周洗（C02）；抓绒保暖“救命”（C05）。
+日常穿着喜爱：明确“love my set”、Define夹克+紧身裤日常/派对穿着（C09、C10）。
+二手/价值可及：积极在thrift找Define/Scuba（C06）。
+本地/品牌认同：加拿大消费者认为“我们这边都穿这个”（C14）。
+对比竞品服务：因其他品牌服务差而考虑转回（C16，参考）。
+这些显示部分消费者仍认可产品舒适、经典款和品牌在特定场景的价值，即使存在质量与价格抱怨。
+
+5. 对研究假设的有限判断
+
+获得线索的解释：产品质量/耐久下降（尤其裆部破洞、新旧对比）与价格上涨叠加，是停止购买或强烈不满的最清晰线索（C01、C02、C08）。购物体验摩擦（退换、配送、客服）直接导致“不会再订”意向（C03、C04）。合身不一致也出现。
+相互混淆：说“贵”常与“不值（因质量）”绑定，难以单独拆分预算限制 vs 感知价值。停止购买原因混杂质量、价格、价值观（C15），难以单一归因。
+暂无/薄弱证据：衣橱完全饱和导致不再买的直接证据少（反而有持续二手需求）；日常/通勤需求多由穿着行为推断，而非消费者主动明确提出“为通勤买”；竞品转向的详细第一人称比较（Vuori/Alo等）在本时间窗内较少，多为泛提或新闻。
+检查点：
+不买Lululemon的人是否仍买同类竞品：样本中有询问替代品牌（C01），但具体转向经历有限；一人因竞品服务差考虑转回。
+认可品牌仍可能无购买理由：有人爱穿已有款但不再新购（质量/价格驱动）。
+需求缺口：更偏向产品（质量/合身）与购物过程，而非单纯“产品不存在”。
+日常需求：消费者通过穿着行为展示，研究者未强行预设。
+主题计数按独立作者（多标签不可加总为100%）。点赞/发帖量不代表普遍性或销量贡献。本样本为公开社交媒体探索性证据，存在自选偏差（抱怨者更易发声），不能外推为北美消费者整体占比。
+
+无法判断的事项
+
+北美整体消费者中各原因的真实占比。
+质量问题是否系统性（制造变更）或个别批次。
+男性 vs 女性、新品 vs 经典的差异（样本偏女性紧身裤/夹克）。
+具体竞品转换路径与价格支付意愿的量化对比。
+门店 vs 线上体验的系统差异。
+待核验帖子：无核心样本落入此区。
+
+这是社交媒体探索性研究，提供方向性线索与访谈起点，而非代表性消费者调查或战略建议。如需扩大检索（特定产品、更多竞品对比、或进一步线程抓取），可继续深化。

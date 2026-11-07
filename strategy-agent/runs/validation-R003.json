@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "scope": "Local file integrity and references only; not factual or strategic validation",
+  "markdown_files": 13,
+  "evidence_entries": 26,
+  "hypotheses": 10,
+  "local_links_checked": 40,
+  "source_hashes_checked": 4,
+  "errors": [],
+  "run": "R003",
+  "checked_date": "2026-11-07",
+  "deliverables": {
+    "guide_pages": 4,
+    "form_pages": 3
+  },
+  "consumer_evidence_added": false
+}

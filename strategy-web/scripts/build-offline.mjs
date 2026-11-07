@@ -1,0 +1,11 @@
+import {build} from 'esbuild';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {resolve} from 'node:path';
+const root=resolve(import.meta.dirname,'..');
+const result=await build({stdin:{contents:'import React from "react";import{createRoot}from"react-dom/client";import App from "./app/page";createRoot(document.getElementById("root")).render(<App/>);',resolveDir:root,loader:'tsx'},bundle:true,write:false,minify:true,format:'iife',platform:'browser',jsx:'automatic',define:{'process.env.NODE_ENV':'"production"'}});
+const css=await readFile(resolve(root,'app/globals.css'),'utf8');
+const js=result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script');
+const html='<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lululemon · 战略工作台</title><style>'+css+'</style></head><body><div id="root"></div><script>'+js+'</script></body></html>';
+await mkdir(resolve(root,'offline'),{recursive:true});
+await writeFile(resolve(root,'offline/index.html'),html);
+console.log(JSON.stringify({file:resolve(root,'offline/index.html'),bytes:Buffer.byteLength(html),networkRequired:false}));
