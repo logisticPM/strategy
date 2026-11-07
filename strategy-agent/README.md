@@ -1,6 +1,6 @@
 # Lululemon 战略研究工作台
 
-当前版本R013，2026-11-07。由当前会话执行的轻量工作流，不是后台自动运行服务。
+当前版本R014，2026-11-07。由当前会话执行的轻量工作流，不是后台自动运行服务。
 
 网页入口：[离线战略工作台](../strategy-web/offline/index.html)，使用浏览器打开。[使用与更新说明](../strategy-web/WORKBENCH.md)。网页读取构建时快照；资料更新后需同步重建。用户已授权完整公开至GitHub并启用Pages，目标地址为 https://logisticpm.github.io/strategy/ ，部署结果见R010。
 
@@ -27,3 +27,5 @@ R001–R007及原始资料保留；重构前入口快照在 `runs/R008-before/`�
 R011已完成[D002证据与假设审计](sources/audit-R011.md)，当前假设表已整合历史修订；网页分开显示审计处置和来源读取状态。
 
 R013：[市场、份额与渠道核查](sources/market-share-R013.md)。
+
+R014：[八季经营序列、竞品与数据可得性](sources/operating-sequence-R014.md)。
