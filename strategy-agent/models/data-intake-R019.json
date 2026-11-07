@@ -1,0 +1,143 @@
+{
+  "version": "R019",
+  "status": "DRAFT NOT SENT; all values null until received",
+  "requested_period_end": "2026-08-02 or latest data available by case cutoff",
+  "case_cutoff": "2026-10-08",
+  "requests": [
+    {
+      "id": "Q01",
+      "suggested_function": "FP&A / Americas finance",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "USA and Canada separately",
+      "grain": "country, fiscal_month, category, channel",
+      "fields": [
+        "net_sales",
+        "full_price_net_sales",
+        "markdown_net_sales",
+        "returns_value",
+        "contribution_costs"
+      ],
+      "period": "最近8季度，优先最近13个月月度",
+      "decision": "成交修复 vs 品类/渠道暴露",
+      "definition": "全价/促销定义、税及运费处理、退货所属期间必须明确",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    },
+    {
+      "id": "Q02",
+      "suggested_function": "CRM / digital / retail analytics",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "USA and Canada separately",
+      "grain": "country, fiscal_month, channel, new_existing_cohort",
+      "fields": [
+        "active_buyers",
+        "orders",
+        "visits",
+        "conversion",
+        "units",
+        "realized_unit_price",
+        "cohort_repeat_rate"
+      ],
+      "period": "同Q01",
+      "decision": "获客 vs 转化 vs 频次/客单",
+      "definition": "仅匿名聚合；跨渠道去重；访客与订单归属不能混算",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    },
+    {
+      "id": "Q03",
+      "suggested_function": "Retail finance / real estate",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "USA, Canada and candidate countries separately",
+      "grain": "country, store_cohort, fiscal_month",
+      "fields": [
+        "opening_expansion_date",
+        "area",
+        "net_sales",
+        "contribution",
+        "rent",
+        "capex",
+        "exit_cost",
+        "local_online_effect"
+      ],
+      "period": "最近8季；新店自开店起",
+      "decision": "修复/改造/开店/关闭",
+      "definition": "以店龄和面积分组；不把租赁负债与租金现金双扣",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    },
+    {
+      "id": "Q04",
+      "suggested_function": "Supply chain / fulfillment finance",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "USA and Canada separately",
+      "grain": "country, month, fulfillment_mode",
+      "fields": [
+        "fulfilled_orders",
+        "units",
+        "fulfillment_cost",
+        "return_cost",
+        "lead_time",
+        "stockout_rate",
+        "aged_inventory"
+      ],
+      "period": "最近13个月",
+      "decision": "供给与配送效率",
+      "definition": "商品/配送/服务成本边界与Q01一致；缺码定义及观察窗口明确",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    },
+    {
+      "id": "Q05",
+      "suggested_function": "Corporate FP&A / project owners",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "Corporate",
+      "grain": "project, fiscal_period, cost_type",
+      "fields": [
+        "baseline_spend",
+        "committed_spend",
+        "avoidable_spend",
+        "termination_cost",
+        "benefit_dependency"
+      ],
+      "period": "当年及后续承诺期",
+      "decision": "保留必要投入 vs 定向效率",
+      "definition": "区分现金/折旧、一次性/持续、沉没/可避免；不是同比费用即节省",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    },
+    {
+      "id": "Q06",
+      "suggested_function": "Team library/data access owner",
+      "confirmed_owner": null,
+      "status": "未发送/未取得",
+      "geography": "USA and Canada separately",
+      "grain": "panel, month, category, price_band, brand",
+      "fields": [
+        "market_spend",
+        "brand_spend",
+        "buyer_count",
+        "frequency",
+        "coverage",
+        "weighting",
+        "effective_price_definition"
+      ],
+      "period": "匹配Q01期间",
+      "decision": "市场变化 vs 品牌份额",
+      "definition": "先确认已有许可和覆盖；商户卡金额不能冒充SKU价格带",
+      "received_source": null,
+      "coverage": null,
+      "values": null
+    }
+  ]
+}

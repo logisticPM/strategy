@@ -1,0 +1,64 @@
+{
+  "status": "ALL INPUTS INVENTED; no company-calibrated forecast, ranking, NPV or approved threshold",
+  "units": "USD million unless price example; all flows same chosen period",
+  "sales_sensitivity": [
+    {
+      "assumed_fixed_cost_m": 1,
+      "assumed_margin": 0.2,
+      "break_even_incremental_net_sales_m": 5.0
+    },
+    {
+      "assumed_fixed_cost_m": 1,
+      "assumed_margin": 0.3,
+      "break_even_incremental_net_sales_m": 3.333333
+    },
+    {
+      "assumed_fixed_cost_m": 1,
+      "assumed_margin": 0.4,
+      "break_even_incremental_net_sales_m": 2.5
+    },
+    {
+      "assumed_fixed_cost_m": 5,
+      "assumed_margin": 0.2,
+      "break_even_incremental_net_sales_m": 25.0
+    },
+    {
+      "assumed_fixed_cost_m": 5,
+      "assumed_margin": 0.3,
+      "break_even_incremental_net_sales_m": 16.666667
+    },
+    {
+      "assumed_fixed_cost_m": 5,
+      "assumed_margin": 0.4,
+      "break_even_incremental_net_sales_m": 12.5
+    },
+    {
+      "assumed_fixed_cost_m": 10,
+      "assumed_margin": 0.2,
+      "break_even_incremental_net_sales_m": 50.0
+    },
+    {
+      "assumed_fixed_cost_m": 10,
+      "assumed_margin": 0.3,
+      "break_even_incremental_net_sales_m": 33.333333
+    },
+    {
+      "assumed_fixed_cost_m": 10,
+      "assumed_margin": 0.4,
+      "break_even_incremental_net_sales_m": 25.0
+    }
+  ],
+  "illustrations": {
+    "sales_gate": 24.0,
+    "new_offer_sales_gate": 32.0,
+    "cost_action_net": 3,
+    "price_cut_required_unit_lift": 0.1428571428571428
+  },
+  "missing": [
+    "capital and working capital",
+    "tax and timing",
+    "baseline variance and detectable effect",
+    "company hurdle rate",
+    "actual incremental margin and cannibalization"
+  ]
+}

@@ -20,7 +20,7 @@ def table(text, prefix=None):
     return rows
 
 def build():
-    audit=json.loads((SOURCE/'sources/audit-R018.json').read_text(encoding='utf-8'))
+    audit=json.loads((SOURCE/'sources/audit-R019.json').read_text(encoding='utf-8'))
     names = ['dashboard.md', 'enterprise-diagnosis.md', 'strategy-options.md', 'economics.md',
              'evidence-ledger.md', 'hypotheses.md', 'research-plan.md',
              'decisions/D001-north-america.md', 'decisions/D002-enterprise-strategy.md']
@@ -56,8 +56,8 @@ def build():
         for hid in set(re.findall(r'\bH\d{3}\b', line)):
             if 'R00' in heading:
                 updates.setdefault(hid, []).append('### '+heading+'\n\n'+line)
-    result=dict(updated='2026-11-07', caseCutoff='2026-10-08', researchVersion='R018',
-                audit=audit, auditHash=hashlib.sha256((SOURCE/'sources/audit-R018.json').read_bytes()).hexdigest(),
+    result=dict(updated='2026-11-07', caseCutoff='2026-10-08', researchVersion='R019',
+                audit=audit, auditHash=hashlib.sha256((SOURCE/'sources/audit-R019.json').read_bytes()).hexdigest(),
                 hypothesisUpdates=updates,
                 generated=datetime.now(ZoneInfo('America/Vancouver')).isoformat(),
                 docs=docs, evidence=entries, hypotheses=hypotheses,
