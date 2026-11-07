@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-07",
+  "repository": "https://github.com/logisticPM/strategy",
+  "visibility": "public",
+  "pages_url": "https://logisticpm.github.io/strategy/",
+  "source": {"branch": "main", "path": "/docs"},
+  "verified_deployment_commit": "b4220e970609d4503b9a6c54f483ea1db078564c",
+  "verified_deployment": "https://github.com/logisticPM/strategy/actions/runs/42417024871",
+  "deployment_conclusion": "success",
+  "pages_build_status": "built",
+  "published_html_sha256": "1747d3e5e735a7634fb0b69b79e6020a0f219f95712b01d9cdb6ec322f4367e1",
+  "browser_verified": ["Public page loads with research overview", "E039 evidence drawer opens with original source link"],
+  "research_snapshot_checks": {"source_hashes": 15, "evidence_entries": 40, "hypotheses": 14, "scenario_cells": 9, "passed": true},
+  "note": "This record describes the first successful deployment; subsequent record-only commits leave docs/index.html unchanged."
+}
