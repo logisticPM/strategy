@@ -1,0 +1,109 @@
+{
+  "units": "USD million",
+  "source": "LULU-Q2-2026 Note 3 and MD&A; same family as E039-E047",
+  "cuts": {
+    "geography": {
+      "US": {
+        "prior": 1415.002,
+        "current": 1302.069,
+        "change": -112.933,
+        "growth_pct": -7.981
+      },
+      "Canada": {
+        "prior": 321.293,
+        "current": 285.815,
+        "change": -35.478,
+        "growth_pct": -11.042
+      },
+      "Mexico": {
+        "prior": 21.922,
+        "current": 28.888,
+        "change": 6.966,
+        "growth_pct": 31.776
+      },
+      "China Mainland": {
+        "prior": 392.898,
+        "current": 407.095,
+        "change": 14.197,
+        "growth_pct": 3.613
+      },
+      "ROW": {
+        "prior": 374.104,
+        "current": 391.764,
+        "change": 17.66,
+        "growth_pct": 4.721
+      }
+    },
+    "category": {
+      "Women": {
+        "prior": 1547.321,
+        "current": 1488.241,
+        "change": -59.08,
+        "growth_pct": -3.818
+      },
+      "Men": {
+        "prior": 624.598,
+        "current": 621.38,
+        "change": -3.218,
+        "growth_pct": -0.515
+      },
+      "Accessories and other": {
+        "prior": 353.3,
+        "current": 306.01,
+        "change": -47.29,
+        "growth_pct": -13.385
+      }
+    },
+    "channel": {
+      "Stores": {
+        "prior": 1254.952,
+        "current": 1173.747,
+        "change": -81.205,
+        "growth_pct": -6.471
+      },
+      "E-commerce": {
+        "prior": 993.093,
+        "current": 934.63,
+        "change": -58.463,
+        "growth_pct": -5.887
+      },
+      "Other": {
+        "prior": 277.174,
+        "current": 307.254,
+        "change": 30.08,
+        "growth_pct": 10.852
+      }
+    }
+  },
+  "sga": {
+    "head_office_increase": 45.8,
+    "channel_increase": 7.7,
+    "fx_gain_reduction": 1.2,
+    "rounded_sum": 54.7,
+    "exact_total": 54.674,
+    "rounding_residual": 0.026,
+    "head_office_components": [
+      14.6,
+      14.1,
+      7.6,
+      6.9,
+      6.4,
+      -3.8
+    ],
+    "channel_components": [
+      5.1,
+      1.7,
+      0.9,
+      4.2,
+      -4.2
+    ]
+  },
+  "margin_bridge_bps": {
+    "refund": 560,
+    "tariffs_markdowns_price_product_cost_net": -150,
+    "fx": 20,
+    "occupancy_depreciation": -180,
+    "distribution_product_departments": -50
+  },
+  "warning": "Cuts overlap and must not be added. Margin bps rounded; cost increases are not cost-saving opportunities. No causal or investment ranking."
+}
