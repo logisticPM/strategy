@@ -1,0 +1,28 @@
+{
+  "unit": "US$M",
+  "period": "Q2 FY2026 versus Q2 FY2025",
+  "geography": "Global, not US/Canada channel split",
+  "channels": {
+    "stores": {
+      "prior": 1254.952,
+      "current": 1173.747,
+      "change": -81.205,
+      "growth_percent": -6.4708
+    },
+    "ecommerce": {
+      "prior": 993.093,
+      "current": 934.63,
+      "change": -58.463,
+      "growth_percent": -5.887
+    },
+    "other": {
+      "prior": 277.174,
+      "current": 307.254,
+      "change": 30.08,
+      "growth_percent": 10.8524
+    }
+  },
+  "us_july_clothing_store_nominal_sales_growth_percent": 4.4544,
+  "market_share_estimate": null,
+  "reason": "No matched country/category/price/channel market denominator"
+}
