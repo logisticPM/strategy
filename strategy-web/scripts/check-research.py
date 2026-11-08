@@ -15,9 +15,9 @@ for row in data['financial']['assumed_sensitivity_matrix']:
     assert abs(actual-row['incremental_contribution_after_fixed_cost'])<.00051
 assert 'reddit-review-R004.md' in next(e['body'] for e in data['evidence'] if e['id']=='E027')
 assert 'x-verification-R005.md' in next(e['body'] for e in data['evidence'] if e['id']=='E033')
-assert data['researchVersion']=='R021'
-assert hashlib.sha256((source/'sources/audit-R021.json').read_bytes()).hexdigest()==data['auditHash']
-assert len(data['audit']['evidence'])==56
+assert data['researchVersion']=='R022'
+assert hashlib.sha256((source/'sources/audit-R022.json').read_bytes()).hexdigest()==data['auditHash']
+assert len(data['audit']['evidence'])==58
 assert len(data['audit']['hypotheses'])==14
 assert data['audit']['hypotheses']['H012']['action']=='降级'
 assert '已有实际减购自述' in next(h[2] for h in data['hypotheses'] if h[0]=='H002')
