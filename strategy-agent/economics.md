@@ -1,5 +1,10 @@
 # 统一经济逻辑与资本配置
 
+## R020 当前使用边界
+
+只用公开数据；下列模型仍为显式假设，不是预测或排名。历史内部数据请求不作为待办。当前建议为P1有限改善与P4新增承诺纪律、P3选择性继续、P2有限探索；优先顺序依据可逆性和经营重要性，不由虚构参数评分。[完整比较](sources/public-strategy-synthesis-R020.md)。
+
+
 R019，美元US$M；所有情景均为研究者假设，不是公司计划或预测。来源事实E012/E040；[脚本](models/enterprise_economics.py)、[结果](models/enterprise-economics-results.json)可复算。无内部基线时保留空值，不以主观权重生成ROI排名。
 
 ## 收入与利润桥
