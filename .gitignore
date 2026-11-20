@@ -15,3 +15,6 @@ tmp/
 .codex/
 .agents/
 **/.DS_Store
+
+# Local-only interview notes; never publish
+strategy-agent/private/
