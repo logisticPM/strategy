@@ -15,7 +15,7 @@
 只用免费公开数据。不得把内部数据、客户/学校权限、付费面板或访谈作为默认下一步；公开不可得就保留未知并给有边界的建议。R019数据请求转历史参考，未发送。按经营问题→价值缺口→竞争行动形成建议顺序；不要把因果不确定等同无法提出任何战略判断。以[本轮综合](sources/public-strategy-synthesis-R020.md)和D002为当前选择。
 
 
-当前版本R024，2026-11-19。R023–R024按用户指示录入一次课程安排的公司人员访谈（E059，[R023](runs/R023-client-meeting.md)、[R024](runs/R024-meeting-notes-reconciliation.md)）；它是非公开的案例后转述，原始纪要仅本地保存于不入库的 `private/` 目录，不改变“默认只用公开数据”的边界，也不构成继续访谈的安排。由当前会话执行的轻量工作流，不是后台自动运行服务。
+当前版本R025，2026-11-19。R025核读六篇[外部分析来源](sources/external-analysis-R025.md)（E060–E064，[记录](runs/R025-external-analysis.md)），并与台账官方Q2数字核对。R023–R024按用户指示录入一次课程安排的公司人员访谈（E059，[R023](runs/R023-client-meeting.md)、[R024](runs/R024-meeting-notes-reconciliation.md)）；它是非公开的案例后转述，原始纪要仅本地保存于不入库的 `private/` 目录，不改变“默认只用公开数据”的边界，也不构成继续访谈的安排。由当前会话执行的轻量工作流，不是后台自动运行服务。
 
 网页入口：[离线战略工作台](../strategy-web/offline/index.html)，使用浏览器打开。[使用与更新说明](../strategy-web/WORKBENCH.md)。网页读取构建时快照；资料更新后需同步重建。用户已授权完整公开至GitHub并启用Pages，目标地址为 https://logisticpm.github.io/strategy/ ，部署结果见R010。
 
